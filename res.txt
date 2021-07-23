@@ -1,1 +1,1 @@
-nodejs 14.x
+nodejs 14.x-nvm
