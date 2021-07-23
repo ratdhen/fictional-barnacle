@@ -1,3 +1,3 @@
 # fictional-barnacle
 khafid dev
-windows 64bit
+windows 11 64bit
