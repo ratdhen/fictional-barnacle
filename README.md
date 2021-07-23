@@ -1,5 +1,3 @@
 # fictional-barnacle
 khafid dev
-
-arhc linux
-amd64
+windows 11 64bit
